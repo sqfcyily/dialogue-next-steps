@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dialogue Next Steps"
+  short_description: "Answer, then add numbered next steps (<=5)"
+  default_prompt: 'Use $dialogue-next-steps: deeply understand intent/emotion, answer precisely, then (when appropriate) append up to 5 numbered next-step actions/questions so I can reply with a number to continue.'
